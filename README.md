@@ -21,3 +21,29 @@ OrangeHRM is a Human Resource Management (HRM) application that includes both th
 # Test Report
 
 ![Screenshot 2023-08-17 144805](https://github.com/Siddartha1256/Orange_HRM_testNG/assets/127547801/eed31f5f-e1f8-4fbb-aecb-ab6267065e8e)
+
+# TestNG Automation Project Setup
+Steps to set up a TestNG project for automation testing using Eclipse.
+
+# Prerequisites
+
+Eclipse IDE
+Java Development Kit (JDK)
+TestNG plugin installed in Eclipse
+# Steps
+
+Install TestNG Plugin: If not installed, go to "Help" > "Eclipse Marketplace" and search for "TestNG." Install the plugin.
+
+Create Java Project: Go to "File" > "New" > "Java Project" and name your project.
+
+Add Dependencies: If needed, add external libraries or WebDriver dependencies to your project.
+
+Create Packages: Organize your project by creating packages for different functional areas or test types.
+
+Create Test Classes: Inside packages, create test classes. Define test methods using TestNG annotations.
+
+Run Tests: Right-click on a test class or method, choose "Run As" > "TestNG Test" to execute tests.
+
+Optional: TestNG XML Configuration: Create a TestNG XML file for complex test setups.
+
+View Results: Check the "TestNG" view in Eclipse for test execution results.
