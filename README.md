@@ -19,3 +19,5 @@ OrangeHRM is a Human Resource Management (HRM) application that includes both th
 • IDE Tool: Eclipse IDE
 
 # Test Report
+
+![Screenshot 2023-08-17 144805](https://github.com/Siddartha1256/Orange_HRM_testNG/assets/127547801/eed31f5f-e1f8-4fbb-aecb-ab6267065e8e)
