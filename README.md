@@ -25,12 +25,13 @@ OrangeHRM is a Human Resource Management (HRM) application that includes both th
 # TestNG Automation Project Setup
 Steps to set up a TestNG project for automation testing using Eclipse.
 
-# Prerequisites
+#Prerequisites
 
 Eclipse IDE
 Java Development Kit (JDK)
 TestNG plugin installed in Eclipse
-# Steps
+
+#Steps
 
 Install TestNG Plugin: If not installed, go to "Help" > "Eclipse Marketplace" and search for "TestNG." Install the plugin.
 
