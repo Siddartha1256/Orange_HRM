@@ -1,4 +1,4 @@
-# Orange_HRM
+# Orange_HRM_TestNG
 # Website: https://opensource-demo.orangehrmlive.com
 # About
 OrangeHRM is a Human Resource Management (HRM) application that includes both the Admin module and the Employee Self Service (ESS) module. As an Admin using this application, we can maintain employee data, such as job, organization, Qualifaction, nationality, create user roles for different regions and locations. The application also provides modules PIM module centralizes all your key employee datasuch as names, titles, addresses, salary and position history, reporting structures and other critical employee information, recruitment, onboarding, performance management, time and attendance tracking, and leave management
